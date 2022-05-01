@@ -91,8 +91,6 @@ describe("Add another todo tests ", function () {
   });
 });
 
-/*
-
 async function testExample() {
   // 1. launch the browser
   let driver = await new Builder().forBrowser("firefox").build();
@@ -134,5 +132,3 @@ async function testExample() {
   await driver.quit();
 }
 testExample();
-
-*/
